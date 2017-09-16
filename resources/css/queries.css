@@ -1,0 +1,418 @@
+@media only screen and (max-width: 2560px) {
+    
+    html,
+    body, p, h3, .box {
+        
+        font-size: 30px;
+        padding: 0 10px 0 5px;
+    }
+    
+    
+@media only screen and (max-width: 1600px) {
+    
+    html,
+    body, p, h3, .box {
+        
+        font-size: 20px;
+        padding: 0;
+    }
+    
+    .hero-text-box {
+        width: 100%;
+        padding: 0 5%;
+    }
+
+    .row {
+        padding: 0 5%;
+    }
+
+    .plan-box h3 {
+        margin: 0 70px 20px 70px;
+    }
+    
+    .info-section .box:first-child {
+    
+    padding-left: 30px;
+    position: relative;
+    left: 15px;
+}
+    
+    blockquote2 .e-mail {
+        
+        text-align: center;
+    }
+    
+}
+
+@media only screen and (max-width: 1024px) {
+
+    html,
+    body, p, h3, .box {
+        
+        font-size: 15px;
+        padding: 0;
+    }
+    
+.plan-box h3 {
+        margin: 0 30px 20px 30px;
+    }
+    
+    .plan-box {
+        
+        font-size: 18px;
+        font-weight: 400;
+    }
+    
+    .plan-box-whole {
+        
+        margin: 0 -50px;
+    }
+    
+    .works-steps p {
+        
+        margin: 30px -40px;
+        padding-top: 14%;
+    }
+    
+    
+    
+}
+
+
+@media only screen and (max-width: 780px) {
+
+    
+           
+    .main-nav li {
+        margin-left: 1em;
+    }
+    
+    .plan-box h3 {
+        margin: 0 30px 20px 30px;
+    }
+    
+    .plan-box {
+        
+        font-size: 12px;
+    }
+    
+    .plan-box-whole {
+        
+        margin: 0 -50px;
+        
+    }
+    
+     .info-section .box:first-child {
+    
+        padding-left: 30px;
+        position: relative;
+        left: 0;
+        font-size: 15px;
+}
+    
+    .works-steps p {
+        
+        margin: 30px -20px;
+        padding-top: 18%;
+    }
+    
+    .contact-form { width: 90%; }
+
+}
+
+@media only screen and (max-width: 700px) {
+
+    h2 { font-size: 20px; }
+    
+    .logo {
+        
+        position: relative;
+        left: 30px;
+    }
+
+    .main-nav {
+        top: 70px;
+        width: 100%;
+        text-align: center;
+        padding-left: 200px;
+    }
+
+    .main-nav li {
+        margin-top: 5px;
+    }
+
+    .hero-text-box {
+        top: 600px;
+        bottom: 0;
+    }
+
+    .hero-text-box h1 {
+        font-size: 2em;
+        text-align: center;
+        margin-top: 2em;
+        margin-bottom: 2em;
+    }
+    
+     .info-section .box:first-child {
+    
+        padding-left: 30px;
+        position: relative;
+        left: 0;
+        font-size: 15px;
+}
+
+    .meals-showcase li {
+        width: 50%;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    
+        .logo {
+        
+        position: relative;
+        left: 70px;
+    }
+    
+    .hero-text-box {
+        
+        padding-top: 80px;
+    }
+    
+    .hero-text-box h1 {
+        font-size: 1.5em;
+    }
+    
+    .info-section { padding: 0 20px; }
+
+    .steps-box:first-child {
+        padding-right: 0px;
+    }
+
+    .plan-price span {
+        font-size: 100%;
+    }
+
+    .col.span_1_of_4.box {
+        width: 100%;
+    }
+    
+    .col.span_1_of_3.box {
+        width: 100%;
+    }
+
+    .col.span_1_of_4.box > h3 {
+        text-align: center;
+    }
+    
+    .meal-picture-divider {
+    
+    font-size: 10px;
+}
+    
+    .meal-picture-divider:after {
+        
+    width: 50px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: -4px;
+    position: relative;
+    left: 60px;
+    bottom: 25px;
+}
+
+.meal-picture-divider-2:after {
+    
+    width: 50px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    position: relative;
+    right: 60px;
+    bottom: 25px;
+}
+    
+    
+    .main-nav {
+        top: 70px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    html,
+    body, p, h3, .box {
+        
+        font-size: 13px;
+        padding: 0 10px 0 5px;
+    }
+    
+    
+    h2 {
+        
+        font-weight: 400;
+        padding: 0 10px 0 5px;
+    }
+    
+    .plan-box {
+        
+        width: 105%;
+        font-size: 15px;
+        font-weight: 400;
+        margin: 0 -10px;
+    }
+    
+    .works-steps p {
+        
+        margin: 30px -20px;
+        padding-top: 25%;
+    }
+
+}
+    
+    
+@media only screen and (max-width: 480px) {
+
+    .logo {
+        
+        position: relative;
+        left: 60px;
+    }
+    
+    .hero-text-box {
+        
+        padding-top: 20px;
+    }
+    
+    .hero-text-box h1 {
+        font-size: 1.5em;
+    }
+
+    .steps-box:first-child {
+        padding-right: 0px;
+    }
+
+    .col.span_1_of_4.box {
+        width: 100%;
+    }
+
+    .col.span_1_of_4.box > h3 {
+        text-align: center;
+    }
+    
+    .meal-picture-divider {
+    
+    font-size: 10px;
+}
+    
+    .meal-picture-divider:after {
+        
+    width: 50px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: -4px;
+    position: relative;
+    left: 60px;
+    bottom: 25px;
+}
+
+.meal-picture-divider-2:after {
+    
+    width: 50px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: -30px;
+    position: relative;
+    right: 60px;
+    bottom: 25px;
+}
+    
+    
+    .main-nav {
+        top: 70px;
+        width: 100%;
+        text-align: center;
+    }
+    
+    html,
+    body, p, 
+    h2, h3, .box {
+        
+        font-size: 20px;
+    }
+    
+    .plan-box {
+        
+        font-size: 15px;
+        font-weight: 400;
+        margin: 0 -10px;
+    }
+    
+    .info-section p {
+        
+        margin: 0 -40px;
+    }
+    
+    .works-steps p {
+        
+        margin: 40px -20px;
+        padding-top: 35%;
+    }
+    
+    blockquote2 .e-mail {
+        
+        padding-top: 0;
+    }
+    
+    .info-section .box {
+    
+    text-align: center;
+    padding: 0 30px 0 50px;
+}
+
+}  
+    
+    
+@media only screen and (max-width: 418px) {
+    
+    .hero-text-box {
+        
+        padding-bottom: -25%;
+    }
+    
+    }
+    
+    
+@media only screen and (max-width: 320px) {
+    
+    .logo {
+        
+        position: relative;
+        left: 35px;
+    }
+    
+    html,
+    body, p, 
+    h2, h3, .box {
+        
+        font-size: 15px;
+    }
+    
+    .works-steps p {
+        
+        margin: 30px -20px;
+        padding-top: 45%;
+    }
+    
+    .section-plans {
+        
+        margin-right: 100px;
+    }
+    
+    .plan-box {
+        
+        font-size: 15px;
+        font-weight: 400;
+    }
+    
+}

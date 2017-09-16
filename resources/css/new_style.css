@@ -1,0 +1,103 @@
+body {
+	min-width: 300px;
+}
+
+.main-nav {
+    position: absolute;
+    right: 1em;
+    padding: 0;
+    margin-right: 90px;
+}
+
+.main-nav li {
+    margin-left: 2em;
+}
+
+.hero-text-box > .btn {
+	margin-top: 5px;
+}
+
+.row {
+	width: 100% !important;
+}
+
+.info-section {
+	padding-top: 2em;
+	height: auto !important;
+	display: table-footer-group;
+}
+ 
+.span_1_of_4 {
+    float: left;
+}
+
+.phone-picture img {
+	width: 100%;
+}
+
+.address-box {
+	text-align: center;
+}
+
+.address-box > img {
+	margin: 0;
+}
+
+.address {
+    padding-bottom: 0px;
+}
+
+.all-address-div {
+	display: table;
+	height: auto;
+}
+
+.customers-testimonial {
+	height: auto;
+	display: table;
+}
+
+blockquote > cite {
+	text-align: center;
+}
+
+blockquote2 > cite2 {
+	text-align: center;
+}
+
+.section-plans {
+    display: table;
+    padding: 20px 50px;
+    height: auto;
+}
+
+.steps-box:first-child {
+	padding-right: 0px;
+}
+
+.plan-price {
+	font-size: 2em;
+	margin: 0px -15px;
+}
+
+.plan-price span {
+    font-size: 50%;
+}
+
+input[type="text"],
+input[type="email"],
+select,
+textarea {
+    width: 100%;
+}
+
+.contact-form .row {
+	padding: 0;
+}
+
+.section-form {
+    width: 100%;
+    height: auto;
+    display: table;
+    margin-bottom: 50px;
+}
